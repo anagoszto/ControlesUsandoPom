@@ -9,6 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import paginas.paginaRadioButton;
 
 public class codigoRadioButton {
+	//SeleniumEasy.com
 	String url = "https://www.seleniumeasy.com/test/basic-radiobutton-demo.html";
 	
 	WebDriver driver;

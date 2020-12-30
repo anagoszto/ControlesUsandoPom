@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.Select;
 //import org.testng.Assert;
 
 public class paginaMyAccount {
-	
+	//automationPractice
 	WebDriver driver;
 	
 	@FindBy(css="#search_query_top")

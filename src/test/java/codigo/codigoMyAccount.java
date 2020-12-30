@@ -14,8 +14,7 @@ import org.testng.annotations.Test;
 import paginas.paginaMyAccount;
 
 public class codigoMyAccount {
-
-	
+//automationpractice.com
 	String url2 = "http://automationpractice.com/index.php?controller=my-account";
 	String topSellers = "http://automationpractice.com/index.php?controller=best-sales";
 	String url = "http://automationpractice.com/index.php?controller=authentication&back=my-account";
